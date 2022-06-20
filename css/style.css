@@ -2752,6 +2752,8 @@ margin-left: auto;
 margin-right: auto; 
 margin: 0 auto;
 text-align: center;
+justify-content: center;
+align-items: center;
 background: none;
 -webkit-pointer-events: none;
    -moz-pointer-events: none;
